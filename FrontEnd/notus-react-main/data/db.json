@@ -1,0 +1,24 @@
+{
+	"lessons":[{
+		"id": 1,
+		"title": "Present Simple Tense",
+		"description": "Simple present tense speaks about the present actions, events, or conditions which are occurring in the current situation.  And we use the present simple to talk about repeated actions, habits, general truths, wishes and emotions. This tense is also used for directions and instructions, and to talk about timetables and schedules.",
+		"formula": "Subject + verb (s/es) + object.",
+		"examples": [
+			"She goes to school by bus.",
+			"I am very tired.",
+			"The plane lands at 7:30 a.m."
+		]
+	},
+	{
+		"id": 2,
+		"title": "Present Continuous (progressive) Tense",
+		"description": "Present continuous tense is used to tell about the ongoing actions, events, or conditions and still not finished. We also use this tense when someone or something is bothering us.",
+		"formula": "Subject + helping verb (is / am/ are) + main verb (ing) + object.",
+		"examples": [
+			"I am not learning anything.",
+			"Mario is reading a book.",
+			"You are always arriving late to class!."
+		]
+	}]
+}
